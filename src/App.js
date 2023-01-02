@@ -3,7 +3,7 @@
 // Setup webcam and canvas Done
 // Define references Done
 // Load facemesh Done
-// Detect function
+// Detect function Done
 // Drawing utilities
 // Load triangulation
 // Setup triangle path
